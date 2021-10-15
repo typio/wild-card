@@ -1,6 +1,13 @@
 {
   "resources": [
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"obj_MenuManager","path":"objects/obj_MenuManager/obj_MenuManager.yy",},"order":0,},
+    {"id":{"name":"fnt_Romantiques","path":"fonts/fnt_Romantiques/fnt_Romantiques.yy",},"order":1,},
+    {"id":{"name":"rm_LevelSelect","path":"rooms/rm_LevelSelect/rm_LevelSelect.yy",},"order":1,},
+    {"id":{"name":"fnt_MenuButton","path":"fonts/fnt_MenuButton/fnt_MenuButton.yy",},"order":2,},
+    {"id":{"name":"bg_LightBrown","path":"sprites/bg_LightBrown/bg_LightBrown.yy",},"order":0,},
+    {"id":{"name":"obj_MenuPlayButton","path":"objects/obj_MenuPlayButton/obj_MenuPlayButton.yy",},"order":1,},
+    {"id":{"name":"fnt_CoffeeTin_Title","path":"fonts/fnt_CoffeeTin_Title/fnt_CoffeeTin_Title.yy",},"order":0,},
+    {"id":{"name":"rm_MainMenu","path":"rooms/rm_MainMenu/rm_MainMenu.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -15,7 +22,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_MainMenu","path":"rooms/rm_MainMenu/rm_MainMenu.yy",},},
+    {"roomId":{"name":"rm_LevelSelect","path":"rooms/rm_LevelSelect/rm_LevelSelect.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -39,7 +47,10 @@
   "TextureGroups": [
     {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
   ],
-  "IncludedFiles": [],
+  "IncludedFiles": [
+    {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"data.txt","resourceType":"GMIncludedFile",},
+    {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"CoffeetinInitials-YXJ2.ttf","resourceType":"GMIncludedFile",},
+  ],
   "MetaData": {
     "IDEVersion": "2.3.5.589",
   },
