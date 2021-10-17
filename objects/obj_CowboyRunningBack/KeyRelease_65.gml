@@ -1,2 +1,2 @@
-instance_create_layer(x, y, "Instances", obj_Cowboy2)
+instance_create_layer(x, y-2, "Instances", obj_Cowboy)
 instance_destroy()

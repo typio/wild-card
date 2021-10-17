@@ -1,8 +1,72 @@
 {
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 0,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 13,
+  "bbox_right": 36,
+  "bbox_top": 5,
+  "bbox_bottom": 44,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 48,
+  "height": 48,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
   },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"8701a3aa-5bbd-4261-8491-9b8520157f74","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8701a3aa-5bbd-4261-8491-9b8520157f74","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"8701a3aa-5bbd-4261-8491-9b8520157f74","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"edc48cdd-1f65-4f04-b873-f6ddb76dc666","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"edc48cdd-1f65-4f04-b873-f6ddb76dc666","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"edc48cdd-1f65-4f04-b873-f6ddb76dc666","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"cb07a151-a6c7-42ec-aad4-cf47cddcaedb","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"cb07a151-a6c7-42ec-aad4-cf47cddcaedb","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"cb07a151-a6c7-42ec-aad4-cf47cddcaedb","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"10ac64aa-e727-4552-977e-99f0136b0716","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"10ac64aa-e727-4552-977e-99f0136b0716","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"10ac64aa-e727-4552-977e-99f0136b0716","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"308176fa-adf6-4854-bef3-0d3359bb8fe2","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"308176fa-adf6-4854-bef3-0d3359bb8fe2","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"308176fa-adf6-4854-bef3-0d3359bb8fe2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"954e347c-1e51-42b6-8a4e-ac4ac5801627","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"954e347c-1e51-42b6-8a4e-ac4ac5801627","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"954e347c-1e51-42b6-8a4e-ac4ac5801627","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e23835f4-2f55-4be0-9876-e94b82fe684f","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e23835f4-2f55-4be0-9876-e94b82fe684f","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"e23835f4-2f55-4be0-9876-e94b82fe684f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"bc6bf495-7b62-47f8-8421-2e89a6f980da","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"bc6bf495-7b62-47f8-8421-2e89a6f980da","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"bc6bf495-7b62-47f8-8421-2e89a6f980da","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0e325390-4604-4b32-bf33-53de239e7b7f","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0e325390-4604-4b32-bf33-53de239e7b7f","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"0e325390-4604-4b32-bf33-53de239e7b7f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"308a6020-6d9a-4a32-96ee-46b521a06e9f","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"308a6020-6d9a-4a32-96ee-46b521a06e9f","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"308a6020-6d9a-4a32-96ee-46b521a06e9f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"278a9f8f-af28-4a97-97a4-6267b6e51177","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"278a9f8f-af28-4a97-97a4-6267b6e51177","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"278a9f8f-af28-4a97-97a4-6267b6e51177","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"25b37e0d-832c-47a3-bd6b-2e26adb4715f","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"25b37e0d-832c-47a3-bd6b-2e26adb4715f","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"25b37e0d-832c-47a3-bd6b-2e26adb4715f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"83c670ee-4a32-40ed-b989-c17194d9a303","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"83c670ee-4a32-40ed-b989-c17194d9a303","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"83c670ee-4a32-40ed-b989-c17194d9a303","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f74aa6e5-82ec-4406-a3af-894226ba1c2a","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f74aa6e5-82ec-4406-a3af-894226ba1c2a","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"f74aa6e5-82ec-4406-a3af-894226ba1c2a","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
   "sequence": {
     "spriteId": {"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},
     "timeUnits": 1,
@@ -52,70 +116,6 @@
     "tags": [],
     "resourceType": "GMSequence",
   },
-  "bboxMode": 0,
-  "collisionKind": 1,
-  "type": 0,
-  "origin": 0,
-  "preMultiplyAlpha": false,
-  "edgeFiltering": false,
-  "collisionTolerance": 0,
-  "swfPrecision": 2.525,
-  "bbox_left": 13,
-  "bbox_right": 36,
-  "bbox_top": 5,
-  "bbox_bottom": 44,
-  "HTile": false,
-  "VTile": false,
-  "For3D": false,
-  "width": 48,
-  "height": 48,
-  "swatchColours": null,
-  "gridX": 0,
-  "gridY": 0,
-  "frames": [
-    {"compositeImage":{"FrameId":{"name":"8701a3aa-5bbd-4261-8491-9b8520157f74","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8701a3aa-5bbd-4261-8491-9b8520157f74","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"8701a3aa-5bbd-4261-8491-9b8520157f74","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"edc48cdd-1f65-4f04-b873-f6ddb76dc666","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"edc48cdd-1f65-4f04-b873-f6ddb76dc666","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"edc48cdd-1f65-4f04-b873-f6ddb76dc666","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"cb07a151-a6c7-42ec-aad4-cf47cddcaedb","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"cb07a151-a6c7-42ec-aad4-cf47cddcaedb","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"cb07a151-a6c7-42ec-aad4-cf47cddcaedb","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"10ac64aa-e727-4552-977e-99f0136b0716","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"10ac64aa-e727-4552-977e-99f0136b0716","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"10ac64aa-e727-4552-977e-99f0136b0716","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"308176fa-adf6-4854-bef3-0d3359bb8fe2","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"308176fa-adf6-4854-bef3-0d3359bb8fe2","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"308176fa-adf6-4854-bef3-0d3359bb8fe2","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"954e347c-1e51-42b6-8a4e-ac4ac5801627","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"954e347c-1e51-42b6-8a4e-ac4ac5801627","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"954e347c-1e51-42b6-8a4e-ac4ac5801627","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e23835f4-2f55-4be0-9876-e94b82fe684f","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e23835f4-2f55-4be0-9876-e94b82fe684f","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"e23835f4-2f55-4be0-9876-e94b82fe684f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"bc6bf495-7b62-47f8-8421-2e89a6f980da","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bc6bf495-7b62-47f8-8421-2e89a6f980da","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"bc6bf495-7b62-47f8-8421-2e89a6f980da","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0e325390-4604-4b32-bf33-53de239e7b7f","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0e325390-4604-4b32-bf33-53de239e7b7f","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"0e325390-4604-4b32-bf33-53de239e7b7f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"308a6020-6d9a-4a32-96ee-46b521a06e9f","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"308a6020-6d9a-4a32-96ee-46b521a06e9f","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"308a6020-6d9a-4a32-96ee-46b521a06e9f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"278a9f8f-af28-4a97-97a4-6267b6e51177","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"278a9f8f-af28-4a97-97a4-6267b6e51177","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"278a9f8f-af28-4a97-97a4-6267b6e51177","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"25b37e0d-832c-47a3-bd6b-2e26adb4715f","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"25b37e0d-832c-47a3-bd6b-2e26adb4715f","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"25b37e0d-832c-47a3-bd6b-2e26adb4715f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"83c670ee-4a32-40ed-b989-c17194d9a303","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"83c670ee-4a32-40ed-b989-c17194d9a303","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"83c670ee-4a32-40ed-b989-c17194d9a303","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f74aa6e5-82ec-4406-a3af-894226ba1c2a","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f74aa6e5-82ec-4406-a3af-894226ba1c2a","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"LayerId":{"name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_CowboyDeath","path":"sprites/spr_CowboyDeath/spr_CowboyDeath.yy",},"resourceVersion":"1.0","name":"f74aa6e5-82ec-4406-a3af-894226ba1c2a","tags":[],"resourceType":"GMSpriteFrame",},
-  ],
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"29eaa43a-8c01-40dd-9b27-c967faf3641e","tags":[],"resourceType":"GMImageLayer",},
   ],

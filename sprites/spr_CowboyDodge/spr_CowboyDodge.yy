@@ -1,8 +1,54 @@
 {
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 0,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 10,
+  "bbox_right": 30,
+  "bbox_top": 1,
+  "bbox_bottom": 21,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 32,
+  "height": 32,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
   },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"49613eec-dc08-4b67-a9bd-fa3657db2a8c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"49613eec-dc08-4b67-a9bd-fa3657db2a8c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":{"name":"aac31496-d49e-43cf-948a-9c27b278835c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CowboyDodge","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"49613eec-dc08-4b67-a9bd-fa3657db2a8c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"25928307-2a25-4eea-bb50-a08149e14f4c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"25928307-2a25-4eea-bb50-a08149e14f4c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":{"name":"aac31496-d49e-43cf-948a-9c27b278835c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CowboyDodge","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"25928307-2a25-4eea-bb50-a08149e14f4c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5f348104-6464-4040-91f0-b17f5239e293","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5f348104-6464-4040-91f0-b17f5239e293","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":{"name":"aac31496-d49e-43cf-948a-9c27b278835c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CowboyDodge","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"5f348104-6464-4040-91f0-b17f5239e293","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d745ef73-5777-44b7-9f60-0b6e65ececa7","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d745ef73-5777-44b7-9f60-0b6e65ececa7","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":{"name":"aac31496-d49e-43cf-948a-9c27b278835c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CowboyDodge","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"d745ef73-5777-44b7-9f60-0b6e65ececa7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"dfb357cc-b110-4618-be2a-214ff4ff1671","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"dfb357cc-b110-4618-be2a-214ff4ff1671","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":{"name":"aac31496-d49e-43cf-948a-9c27b278835c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CowboyDodge","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"dfb357cc-b110-4618-be2a-214ff4ff1671","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"230750ad-59ee-462d-9a51-7852c07bcd8a","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"230750ad-59ee-462d-9a51-7852c07bcd8a","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":{"name":"aac31496-d49e-43cf-948a-9c27b278835c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CowboyDodge","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"230750ad-59ee-462d-9a51-7852c07bcd8a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"00f48805-50a9-417d-a606-0a157053ee3c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"00f48805-50a9-417d-a606-0a157053ee3c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":{"name":"aac31496-d49e-43cf-948a-9c27b278835c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CowboyDodge","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"00f48805-50a9-417d-a606-0a157053ee3c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"27c610a7-eedb-4bde-ba87-3b87ccdd2f34","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"27c610a7-eedb-4bde-ba87-3b87ccdd2f34","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":{"name":"aac31496-d49e-43cf-948a-9c27b278835c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CowboyDodge","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"27c610a7-eedb-4bde-ba87-3b87ccdd2f34","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
   "sequence": {
     "spriteId": {"name":"spr_CowboyDodge","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},
     "timeUnits": 1,
@@ -46,52 +92,6 @@
     "tags": [],
     "resourceType": "GMSequence",
   },
-  "bboxMode": 0,
-  "collisionKind": 1,
-  "type": 0,
-  "origin": 0,
-  "preMultiplyAlpha": false,
-  "edgeFiltering": false,
-  "collisionTolerance": 0,
-  "swfPrecision": 2.525,
-  "bbox_left": 10,
-  "bbox_right": 30,
-  "bbox_top": 1,
-  "bbox_bottom": 21,
-  "HTile": false,
-  "VTile": false,
-  "For3D": false,
-  "width": 32,
-  "height": 32,
-  "swatchColours": null,
-  "gridX": 0,
-  "gridY": 0,
-  "frames": [
-    {"compositeImage":{"FrameId":{"name":"49613eec-dc08-4b67-a9bd-fa3657db2a8c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"49613eec-dc08-4b67-a9bd-fa3657db2a8c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":{"name":"aac31496-d49e-43cf-948a-9c27b278835c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_CowboyDodge","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"49613eec-dc08-4b67-a9bd-fa3657db2a8c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"25928307-2a25-4eea-bb50-a08149e14f4c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"25928307-2a25-4eea-bb50-a08149e14f4c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":{"name":"aac31496-d49e-43cf-948a-9c27b278835c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_CowboyDodge","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"25928307-2a25-4eea-bb50-a08149e14f4c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5f348104-6464-4040-91f0-b17f5239e293","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5f348104-6464-4040-91f0-b17f5239e293","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":{"name":"aac31496-d49e-43cf-948a-9c27b278835c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_CowboyDodge","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"5f348104-6464-4040-91f0-b17f5239e293","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d745ef73-5777-44b7-9f60-0b6e65ececa7","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d745ef73-5777-44b7-9f60-0b6e65ececa7","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":{"name":"aac31496-d49e-43cf-948a-9c27b278835c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_CowboyDodge","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"d745ef73-5777-44b7-9f60-0b6e65ececa7","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"dfb357cc-b110-4618-be2a-214ff4ff1671","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"dfb357cc-b110-4618-be2a-214ff4ff1671","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":{"name":"aac31496-d49e-43cf-948a-9c27b278835c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_CowboyDodge","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"dfb357cc-b110-4618-be2a-214ff4ff1671","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"230750ad-59ee-462d-9a51-7852c07bcd8a","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"230750ad-59ee-462d-9a51-7852c07bcd8a","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":{"name":"aac31496-d49e-43cf-948a-9c27b278835c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_CowboyDodge","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"230750ad-59ee-462d-9a51-7852c07bcd8a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"00f48805-50a9-417d-a606-0a157053ee3c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"00f48805-50a9-417d-a606-0a157053ee3c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":{"name":"aac31496-d49e-43cf-948a-9c27b278835c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_CowboyDodge","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"00f48805-50a9-417d-a606-0a157053ee3c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"27c610a7-eedb-4bde-ba87-3b87ccdd2f34","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"27c610a7-eedb-4bde-ba87-3b87ccdd2f34","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"LayerId":{"name":"aac31496-d49e-43cf-948a-9c27b278835c","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_CowboyDodge","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"resourceVersion":"1.0","name":"27c610a7-eedb-4bde-ba87-3b87ccdd2f34","tags":[],"resourceType":"GMSpriteFrame",},
-  ],
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"aac31496-d49e-43cf-948a-9c27b278835c","tags":[],"resourceType":"GMImageLayer",},
   ],
