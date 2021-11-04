@@ -9,7 +9,8 @@
     {"id":{"name":"fnt_MenuButton","path":"fonts/fnt_MenuButton/fnt_MenuButton.yy",},"order":2,},
     {"id":{"name":"bg_LightBrown","path":"sprites/bg_LightBrown/bg_LightBrown.yy",},"order":0,},
     {"id":{"name":"fnt_CoffeeTin_Title","path":"fonts/fnt_CoffeeTin_Title/fnt_CoffeeTin_Title.yy",},"order":0,},
-    {"id":{"name":"spr_LevelSelectCowboy_Front","path":"sprites/spr_LevelSelectCowboy_Front/spr_LevelSelectCowboy_Front.yy",},"order":2,},
+    {"id":{"name":"spr_LevelSelectCowboy_Front","path":"sprites/spr_LevelSelectCowboy_Front/spr_LevelSelectCowboy_Front.yy",},"order":3,},
+    {"id":{"name":"bg_levelselect_foreground","path":"sprites/bg_levelselect_foreground/bg_levelselect_foreground.yy",},"order":4,},
     {"id":{"name":"rm_MainMenu","path":"rooms/rm_MainMenu/rm_MainMenu.yy",},"order":0,},
   ],
   "Options": [
