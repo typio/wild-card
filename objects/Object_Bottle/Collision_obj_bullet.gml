@@ -1,0 +1,1 @@
+bottleHealth -= 1

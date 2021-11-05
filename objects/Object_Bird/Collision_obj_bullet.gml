@@ -1,0 +1,1 @@
+birdHealth -= 1

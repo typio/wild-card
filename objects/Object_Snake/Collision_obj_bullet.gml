@@ -1,0 +1,1 @@
+snakeHealth -= 1

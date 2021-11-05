@@ -9,3 +9,5 @@ if (self.x <= 0) {
 	birdXVelocity = 10;
 	image_xscale = 1;
 }
+if (birdHealth <= 0)
+	instance_destroy()
