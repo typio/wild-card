@@ -18,7 +18,6 @@
     {"id":{"name":"obj_CowboyShootUpRight","path":"objects/obj_CowboyShootUpRight/obj_CowboyShootUpRight.yy",},"order":2,},
     {"id":{"name":"obj_CowboyAim","path":"objects/obj_CowboyAim/obj_CowboyAim.yy",},"order":1,},
     {"id":{"name":"spr_CowboyRunningBack","path":"sprites/spr_CowboyRunningBack/spr_CowboyRunningBack.yy",},"order":13,},
-    {"id":{"name":"Sprite19","path":"sprites/Sprite19/Sprite19.yy",},"order":15,},
     {"id":{"name":"spr_CowboyDodge","path":"sprites/spr_CowboyDodge/spr_CowboyDodge.yy",},"order":4,},
     {"id":{"name":"spr_CowboyGunRightWalk","path":"sprites/spr_CowboyGunRightWalk/spr_CowboyGunRightWalk.yy",},"order":14,},
     {"id":{"name":"spr_CowboyRunning","path":"sprites/spr_CowboyRunning/spr_CowboyRunning.yy",},"order":9,},
