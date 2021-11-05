@@ -89,8 +89,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Cowboy",
+    "path": "folders/Sprites/Cowboy.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_CowboyStanding",
