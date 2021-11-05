@@ -7,3 +7,8 @@ else if (keyboard_check(ord("A"))) {
 }
 else
 	hspeed = 0
+	
+if (!keyboard_check(vk_up)) {
+	instance_create_layer(x + 2, y - 2, "Instances", obj_Cowboy)
+	instance_destroy()
+}
