@@ -9,7 +9,7 @@ if (obj_player.dir_shot == 5) direction = 180;
 if (obj_player.dir_shot == 6) direction = 225;
 if (obj_player.dir_shot == 7) direction = 270;
 if (obj_player.dir_shot == 8) direction = 315;
-direction += random_range (-4,4);
-speed = 20;
+direction += random_range (-3,3);
+speed = 70;
 show_debug_message(direction)
 image_angle = direction;

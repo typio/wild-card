@@ -1,0 +1,12 @@
+ogX = x
+ogY = y
+returnSpeed = 8
+attackType = 3
+canDamage = 0
+readyToAttack = 0
+rowelsShot = 0
+stompPhase = 0
+cowboyX = 0
+cowboyY = 0
+stomps = 0
+moveThree = 0

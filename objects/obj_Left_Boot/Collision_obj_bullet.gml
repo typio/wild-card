@@ -1,0 +1,1 @@
+obj_Boot_Controller.bossHealth -= 1

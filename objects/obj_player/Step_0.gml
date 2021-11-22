@@ -13,7 +13,7 @@ scr_collision();
 
 //Bullet spawning
 
-show_debug_message(dir_shot)
+//show_debug_message(dir_shot)
 //RUNNING [If we make it to hard]
 /*
 	//Running Action [BUG]: pressing both SHIFT and RIGHT key then letting go of RIGHT key keeps running to the RIGHT (both directions)

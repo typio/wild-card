@@ -1,0 +1,1 @@
+bossHealth = 100
