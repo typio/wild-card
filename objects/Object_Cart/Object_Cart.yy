@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite_Cart",
-    "path": "sprites/Sprite_Cart/Sprite_Cart.yy",
+    "name": "Coal_Cart_Sprite",
+    "path": "sprites/Coal_Cart_Sprite/Coal_Cart_Sprite.yy",
   },
   "solid": false,
   "visible": true,

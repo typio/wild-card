@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite_Clock_Gears",
-    "path": "sprites/Sprite_Clock_Gears/Sprite_Clock_Gears.yy",
+    "name": "Gear_sprite",
+    "path": "sprites/Gear_sprite/Gear_sprite.yy",
   },
   "solid": false,
   "visible": true,

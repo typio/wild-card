@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite_Bottle",
-    "path": "sprites/Sprite_Bottle/Sprite_Bottle.yy",
+    "name": "Bottle_Sprite",
+    "path": "sprites/Bottle_Sprite/Bottle_Sprite.yy",
   },
   "solid": false,
   "visible": true,

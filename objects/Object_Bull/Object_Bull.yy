@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite_Bull",
-    "path": "sprites/Sprite_Bull/Sprite_Bull.yy",
+    "name": "Bull_sprite",
+    "path": "sprites/Bull_sprite/Bull_sprite.yy",
   },
   "solid": false,
   "visible": true,

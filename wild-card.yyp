@@ -93,6 +93,7 @@
     {"id":{"name":"Sprite60","path":"sprites/Sprite60/Sprite60.yy",},"order":16,},
     {"id":{"name":"fnt_MenuButton","path":"fonts/fnt_MenuButton/fnt_MenuButton.yy",},"order":2,},
     {"id":{"name":"fnt_CoffeeTin_Title","path":"fonts/fnt_CoffeeTin_Title/fnt_CoffeeTin_Title.yy",},"order":0,},
+    {"id":{"name":"Sprite88","path":"sprites/Sprite88/Sprite88.yy",},"order":15,},
     {"id":{"name":"obj_LevelSelectCowboy","path":"objects/obj_LevelSelectCowboy/obj_LevelSelectCowboy.yy",},"order":4,},
     {"id":{"name":"obj_MenuManager","path":"objects/obj_MenuManager/obj_MenuManager.yy",},"order":3,},
     {"id":{"name":"Bat_sprite_sheet","path":"sprites/Bat_sprite_sheet/Bat_sprite_sheet.yy",},"order":3,},

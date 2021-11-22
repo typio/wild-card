@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite_Horse",
-    "path": "sprites/Sprite_Horse/Sprite_Horse.yy",
+    "name": "Horse_sprite",
+    "path": "sprites/Horse_sprite/Horse_sprite.yy",
   },
   "solid": false,
   "visible": true,

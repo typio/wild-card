@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite_Bat_Rest",
-    "path": "sprites/Sprite_Bat_Rest/Sprite_Bat_Rest.yy",
+    "name": "Bat_sprite",
+    "path": "sprites/Bat_sprite/Bat_sprite.yy",
   },
   "solid": false,
   "visible": true,

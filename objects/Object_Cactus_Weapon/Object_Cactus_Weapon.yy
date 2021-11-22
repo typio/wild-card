@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite_Cactus_Weapon",
-    "path": "sprites/Sprite_Cactus_Weapon/Sprite_Cactus_Weapon.yy",
+    "name": "spr_bullet",
+    "path": "sprites/spr_bullet/spr_bullet.yy",
   },
   "solid": false,
   "visible": true,

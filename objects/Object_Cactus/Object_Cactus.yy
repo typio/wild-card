@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite_Cactus",
-    "path": "sprites/Sprite_Cactus/Sprite_Cactus.yy",
+    "name": "Cactus_sprite",
+    "path": "sprites/Cactus_sprite/Cactus_sprite.yy",
   },
   "solid": false,
   "visible": true,
